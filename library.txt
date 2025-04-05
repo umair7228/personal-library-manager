@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Data Engineering",
+        "author": "Umair",
+        "year": 2018,
+        "genre": "Engineering",
+        "read": true
+    },
+    {
+        "title": "Data Engineering",
+        "author": "Umair",
+        "year": 2018,
+        "genre": "Engineering",
+        "read": true
+    },
+    {
+        "title": "Data Science",
+        "author": "Umair",
+        "year": 2018,
+        "genre": "Engineering",
+        "read": false
+    },
+    {
+        "title": "Agentic AI",
+        "author": "Umair",
+        "year": 2018,
+        "genre": "Engineering",
+        "read": false
+    }
+]
